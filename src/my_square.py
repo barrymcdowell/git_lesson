@@ -1,8 +1,8 @@
-def my_square(x):
+def my_square(q):
     """takes a value and return square
        add some more documentation
     """
-    return(x ** 2)
+    return(q ** 2)
 
 print(my_square(4))
 
