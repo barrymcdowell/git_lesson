@@ -1,0 +1,4 @@
+# bin documentation
+
+Binary Files
+
